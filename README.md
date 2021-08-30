@@ -6,4 +6,4 @@ Steps Involved are:
 1. Preprocessing
 2. Converting Text To Sentences
 3. Find Weighted Frequency of Occurrence.
-4. Calculating Sentence Scores and Getting the Summary.
+4. Calculating Sentence Scores and Getting the Summary
